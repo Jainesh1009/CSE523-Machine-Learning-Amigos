@@ -42,16 +42,18 @@ Next, we did different regression techniques also :
 2) Polynomial Regression
 
 
-We can run both theses techniques and then compare the accuracy between them.
+We can run both these techniques and then compare the accuracy between them.
 
 ### Multivariate_Regression.ipynb
 
 
 Next, in Multivariate_Regression.ipynb, first of all we import our dataset and did the data preprocessing. 
 
+Here we have predicted temperature along with humidity.
+
 
 Here, we directly used the 2 regression techniques:
 1) Multiple Linear Regression
 2) Polynomial Regression
 
-We can run both theses techniques and then compare the accuracy between them
+We can run both these techniques and then compare the accuracy between them

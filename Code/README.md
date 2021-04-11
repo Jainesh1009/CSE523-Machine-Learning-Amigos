@@ -1,5 +1,5 @@
 ### Temperature_final.ipynb
-In Temperature_final.ipynb, first of all we impoort our dataset and did the data preprocessing. Next, we move on to featuere selection process.
+In Temperature_final.ipynb, first of all we import our dataset and did the data preprocessing. Next, we move on to featuere selection process.
 
  
 There are 4 different feature selection process used : 
